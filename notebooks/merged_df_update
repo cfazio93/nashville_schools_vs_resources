@@ -1,0 +1,120 @@
+school_number,school_name,wida_student_group,wida_exit_denom,wida_n_exit,wida_pct_exit,wida_growth_standard_denom,wida_n_met_growth_standard,wida_pct_met_growth_standard,wida_literacy_avg,wida_comp_avg,tvaas_overall_comp,tvaas_lit_comp,tvaas_num_comp,tvaas_litandnum_comp,tvaas_sci_comp,tvaas_ss_comp,merge_step1,letter_grade,merge_step2,act_validtests,act_part_rate,act_avg_eng,act_avg_math,act_avg_reading,act_avg_sci,act_avg_comp,num_scoring_21orhigher,pct_scoring_21orhigher,num_scoring_below19,pct_scoring_below19,merge_step3,hs_grad_cohort_state,hs_grad_count_state,hs_grad_rate_state,hs_grad_cohort_federal,hs_grad_count_federal,hs_grad_rate_federal,merge_step4,school_type
+1,A. Z. Kelley Elementary,All Students,304.0,**,**,189.0,80,42.3,2.6,2.8,5.0,5.0,5.0,5.0,,,both,D,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+5,Alex Green Elementary,All Students,70.0,5,7.1,47.0,20,42.6,2.8,2.9,3.0,3.0,4.0,3.0,2.0,,both,F,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+10,Amqui Elementary,All Students,195.0,16,8.2,124.0,65,52.4,2.7,2.8,4.0,5.0,3.0,5.0,3.0,3.0,both,D,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+15,Andrew Jackson Elementary,All Students,45.0,**,**,32.0,16,50,2.8,3.1,3.0,1.0,5.0,3.0,3.0,,both,B,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+20,Antioch High School,All Students,661.0,**,**,463.0,83,17.9,2.7,2.7,2.0,5.0,1.0,3.0,2.0,1.0,both,F,both,432.0,99,13.9,14.9,15.5,16.2,15.2,42,9.7,353,81.7,both,558.0,444,79.6,558.0,425,76.2,both,hs
+23,Antioch Middle,All Students,307.0,**,**,218.0,25,11.5,2.5,2.7,1.0,3.0,2.0,2.0,1.0,1.0,both,F,both,,,,,,,,,,,,left_only,,,,,,,left_only,middle
+25,Apollo Middle,All Students,326.0,**,**,258.0,57,22.1,2.6,2.7,4.0,2.0,5.0,4.0,4.0,3.0,both,F,both,,,,,,,,,,,,left_only,,,,,,,left_only,middle
+35,Moses McKissack Middle,All Students,7.0,*,*,4.0,*,*,*,*,4.0,3.0,4.0,4.0,3.0,3.0,both,F,both,,,,,,,,,,,,left_only,,,,,,,left_only,middle
+40,Bellevue Middle,All Students,29.0,5,17.2,22.0,11,50,3.3,3.5,5.0,5.0,4.0,5.0,5.0,4.0,both,C,both,,,,,,,,,,,,left_only,,,,,,,left_only,middle
+45,Bellshire Elementary,All Students,71.0,**,**,40.0,17,42.5,2.4,2.6,3.0,3.0,3.0,3.0,3.0,,both,F,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+53,Nashville Big Picture High School,All Students,3.0,*,*,1.0,*,*,*,*,1.0,3.0,1.0,1.0,2.0,1.0,both,D,both,35.0,100,16.7,15.6,19.3,18,17.6,7,20,20,57.1,both,35.0,**,**,35.0,**,**,both,hs
+77,Cane Ridge High School,All Students,559.0,**,**,442.0,94,21.3,2.8,2.8,1.0,2.0,1.0,1.0,1.0,1.0,both,F,both,367.0,98,14.1,15.1,16,16,15.4,36,9.8,299,81.5,both,483.0,385,79.7,483.0,377,78.1,both,hs
+80,Ida B. Wells Elementary,All Students,17.0,1,5.9,10.0,9,90,2.8,2.8,3.0,4.0,3.0,4.0,2.0,,both,C,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+82,Cane Ridge Elementary,All Students,299.0,18,6,185.0,80,43.2,2.5,2.7,5.0,5.0,5.0,5.0,4.0,,both,C,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+105,Chadwell Elementary,All Students,133.0,**,**,80.0,31,38.8,2.4,2.5,3.0,3.0,3.0,3.0,3.0,,both,F,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+110,Charlotte Park Elementary,All Students,255.0,16,6.3,172.0,93,54.1,2.7,2.8,3.0,3.0,3.0,3.0,2.0,,both,D,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+115,Eagle View Elementary School,All Students,275.0,21,7.6,160.0,85,53.1,2.6,2.8,5.0,5.0,5.0,5.0,3.0,,both,D,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+120,Cockrill Elementary,All Students,77.0,**,**,52.0,20,38.5,2.3,2.5,3.0,2.0,3.0,3.0,3.0,,both,F,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+130,Cole Elementary,All Students,555.0,47,8.5,365.0,181,49.6,2.6,2.8,2.0,2.0,3.0,2.0,2.0,,both,F,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+140,Hattie Cotton Elementary,All Students,46.0,**,**,32.0,9,28.1,2.3,2.3,5.0,4.0,5.0,5.0,4.0,,both,F,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+145,Crieve Hall Elementary,All Students,134.0,**,**,78.0,38,48.7,2.8,3,1.0,1.0,1.0,1.0,3.0,,both,A,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+148,Croft Middle,All Students,179.0,**,**,131.0,29,22.1,2.6,2.8,5.0,4.0,5.0,5.0,2.0,5.0,both,D,both,,,,,,,,,,,,left_only,,,,,,,left_only,middle
+150,Cumberland Elementary,All Students,59.0,3,5.1,34.0,13,38.2,2.5,2.6,3.0,4.0,3.0,3.0,4.0,,both,F,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+160,Dan Mills Elementary,All Students,72.0,9,12.5,58.0,34,58.6,2.8,3,4.0,3.0,5.0,4.0,3.0,,both,A,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+165,Dodson Elementary,All Students,93.0,8,8.6,60.0,38,63.3,2.9,3.1,3.0,3.0,5.0,3.0,1.0,,both,D,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+175,Donelson Middle,All Students,70.0,**,**,55.0,14,25.5,2.7,2.9,1.0,1.0,1.0,1.0,3.0,3.0,both,F,both,,,,,,,,,,,,left_only,,,,,,,left_only,middle
+180,DuPont Elementary,All Students,52.0,3,5.8,36.0,14,38.9,2.6,2.8,4.0,3.0,5.0,4.0,3.0,,both,D,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+185,DuPont Tyler Middle,All Students,63.0,10,15.9,40.0,17,42.5,2.9,3,5.0,5.0,5.0,5.0,4.0,5.0,both,D,both,,,,,,,,,,,,left_only,,,,,,,left_only,middle
+190,DuPont Hadley Middle,All Students,29.0,**,**,25.0,6,24,2.6,2.7,1.0,1.0,1.0,1.0,3.0,3.0,both,D,both,,,,,,,,,,,,left_only,,,,,,,left_only,middle
+195,Eakin Elementary,All Students,47.0,3,6.4,18.0,8,44.4,2.6,2.7,5.0,4.0,5.0,5.0,1.0,,both,A,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+203,East Nashville Magnet High School,All Students,1.0,*,*,1.0,*,*,*,*,5.0,5.0,5.0,5.0,3.0,3.0,both,D,both,120.0,99,14,16.6,16,16.1,15.8,13,10.8,98,81.7,both,127.0,121,95.3,127.0,121,95.3,both,hs
+208,Thomas A. Edison Elementary,All Students,312.0,28,9,196.0,117,59.7,2.7,2.9,5.0,5.0,5.0,5.0,,,both,D,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+220,Fall-Hamilton Elementary,All Students,35.0,3,8.6,25.0,16,64,3,3.2,2.0,3.0,3.0,2.0,2.0,,both,D,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+235,Gateway Elementary,All Students,122.0,12,9.8,76.0,39,51.3,2.5,2.8,3.0,3.0,4.0,3.0,1.0,,both,D,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+240,Glencliff Elementary,All Students,316.0,**,**,213.0,107,50.2,2.5,2.7,5.0,5.0,5.0,5.0,,,both,F,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+245,Glencliff High School,All Students,571.0,**,**,424.0,65,15.3,2.5,2.5,2.0,4.0,1.0,1.0,3.0,3.0,both,F,both,202.0,98,12,14.2,13.8,15.1,13.9,**,**,**,**,both,295.0,211,71.5,295.0,205,69.5,both,hs
+250,Glendale Elementary,All Students,6.0,*,*,4.0,*,*,*,*,1.0,1.0,1.0,1.0,3.0,,both,A,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+255,Glengarry Elementary,All Students,254.0,28,11,161.0,103,64,2.7,2.9,5.0,5.0,5.0,5.0,,,both,C,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+265,Glenview Elementary,All Students,477.0,27,5.7,292.0,145,49.7,2.5,2.7,3.0,3.0,3.0,3.0,2.0,,both,F,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+270,Goodlettsville Elementary,All Students,87.0,5,5.7,56.0,20,35.7,2.5,2.7,5.0,3.0,5.0,5.0,3.0,,both,F,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+275,Goodlettsville Middle,All Students,91.0,**,**,80.0,16,20,2.7,2.9,1.0,3.0,1.0,1.0,2.0,1.0,both,F,both,,,,,,,,,,,,left_only,,,,,,,left_only,middle
+280,Gower Elementary,All Students,129.0,7,5.4,82.0,40,48.8,2.5,2.7,1.0,2.0,1.0,1.0,5.0,,both,B,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+290,Granbery Elementary,All Students,137.0,14,10.2,93.0,53,57,2.8,3,5.0,5.0,5.0,5.0,,,both,A,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+295,H. G. Hill Middle,All Students,123.0,8,6.5,92.0,29,31.5,2.8,3,5.0,5.0,3.0,5.0,5.0,4.0,both,D,both,,,,,,,,,,,,left_only,,,,,,,left_only,middle
+296,East Nashville Middle,All Students,1.0,*,*,1.0,*,*,*,*,1.0,1.0,1.0,1.0,1.0,3.0,both,F,both,,,,,,,,,,,,left_only,,,,,,,left_only,middle
+300,Harpeth Valley Elementary,All Students,35.0,5,14.3,21.0,15,71.4,3.2,3.4,3.0,4.0,2.0,3.0,3.0,,both,A,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+305,Haynes Middle,All Students,25.0,3,12,20.0,8,40,2.8,2.8,5.0,5.0,3.0,5.0,4.0,3.0,both,F,both,,,,,,,,,,,,left_only,,,,,,,left_only,middle
+310,Haywood Elementary,All Students,420.0,43,10.2,256.0,162,63.3,2.7,2.9,4.0,5.0,1.0,4.0,,,both,F,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+315,Head Middle,All Students,9.0,*,*,9.0,*,*,*,*,5.0,5.0,3.0,5.0,5.0,2.0,both,A,both,,,,,,,,,,,,left_only,,,,,,,left_only,middle
+318,Henry C. Maxwell Elementary,All Students,288.0,23,8,186.0,98,52.7,2.7,2.8,5.0,5.0,5.0,5.0,,,both,D,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+320,Hermitage Elementary,All Students,82.0,8,9.8,52.0,23,44.2,2.8,2.9,1.0,1.0,3.0,1.0,2.0,,both,D,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+327,Hickman Elementary,All Students,101.0,7,6.9,62.0,35,56.5,2.8,3,3.0,3.0,3.0,3.0,4.0,,both,C,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+330,Meigs Middle,,,,,,,,,,5.0,5.0,5.0,5.0,1.0,2.0,right_only,A,both,,,,,,,,,,,,left_only,,,,,,,left_only,middle
+335,Hillsboro High,All Students,45.0,9,20,32.0,11,34.4,3.3,3.3,1.0,3.0,1.0,1.0,1.0,3.0,both,C,both,279.0,100,19.2,18,21.1,19.7,19.6,106,38,128,45.9,both,306.0,284,92.8,306.0,282,92.2,both,hs
+340,Hillwood High,,,,,,,,,,,,,,,,,,,4.0,*,*,*,*,*,*,*,*,*,*,right_only,27.0,4,14.8,27.0,4,14.8,both,hs
+350,Hull-Jackson Elementary,All Students,1.0,*,*,1.0,*,*,*,*,4.0,5.0,3.0,5.0,2.0,,both,F,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+355,Hume - Fogg High,,,,,,,,,,5.0,5.0,5.0,5.0,5.0,1.0,right_only,A,both,218.0,100,28.2,26.6,28.7,27.3,27.9,**,**,**,**,both,220.0,**,**,220.0,**,**,both,hs
+358,Hunters Lane High,All Students,372.0,**,**,292.0,39,13.4,2.6,2.5,3.0,5.0,3.0,4.0,3.0,1.0,both,F,both,289.0,99,13.1,14.8,14.3,15.4,14.5,19,6.6,254,87.9,both,347.0,298,85.9,347.0,297,85.6,both,hs
+360,Inglewood Elementary,All Students,16.0,**,**,8.0,*,*,2.1,2.3,4.0,3.0,5.0,4.0,4.0,,both,F,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+365,Isaac Litton Middle,All Students,40.0,3,7.5,32.0,11,34.4,2.6,2.7,5.0,4.0,5.0,5.0,5.0,4.0,both,C,both,,,,,,,,,,,,left_only,,,,,,,left_only,middle
+370,J. E. Moss Elementary,All Students,462.0,37,8,304.0,169,55.6,2.6,2.8,5.0,5.0,4.0,5.0,,,both,F,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+374,James Lawson High School,All Students,170.0,12,7.1,135.0,35,25.9,3,3,3.0,5.0,1.0,3.0,4.0,2.0,both,C,both,232.0,100,17.2,16.9,19,17.9,17.9,68,29.3,138,59.5,both,257.0,239,93,257.0,237,92.2,both,hs
+375,Jere Baxter Middle,All Students,118.0,**,**,80.0,24,30,2.4,2.5,5.0,5.0,5.0,5.0,4.0,3.0,both,F,both,,,,,,,,,,,,left_only,,,,,,,left_only,middle
+380,Joelton Elementary,All Students,36.0,2,5.6,25.0,8,32,2.8,3,5.0,5.0,4.0,5.0,3.0,,both,B,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+386,John Early Middle,All Students,34.0,**,**,15.0,2,13.3,2.2,2.3,3.0,4.0,3.0,3.0,3.0,3.0,both,F,both,,,,,,,,,,,,left_only,,,,,,,left_only,middle
+387,Jones Elementary,All Students,16.0,1,6.3,9.0,*,*,2.1,2.3,5.0,4.0,5.0,5.0,3.0,,both,F,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+390,John B. Whitsitt Elementary,All Students,274.0,23,8.4,190.0,121,63.7,2.8,2.9,4.0,5.0,2.0,4.0,3.0,,both,B,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+393,John F. Kennedy Middle,All Students,377.0,28,7.4,292.0,62,21.2,2.8,2.9,3.0,2.0,3.0,2.0,2.0,5.0,both,D,both,,,,,,,,,,,,left_only,,,,,,,left_only,middle
+395,John Overton High,All Students,605.0,36,6,426.0,107,25.1,2.8,2.7,1.0,5.0,1.0,2.0,1.0,3.0,both,D,both,423.0,100,15.5,16.3,17.3,17.2,16.7,85,20.1,301,71.2,both,522.0,426,81.6,522.0,419,80.3,both,hs
+415,Julia Green Elementary,All Students,8.0,*,*,3.0,*,*,*,*,4.0,4.0,4.0,4.0,2.0,,both,A,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+430,Lakeview Elementary,All Students,277.0,**,**,178.0,93,52.2,2.5,2.6,5.0,3.0,5.0,5.0,,,both,D,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+435,Lockeland Elementary,All Students,5.0,*,*,4.0,*,*,*,*,3.0,3.0,3.0,3.0,4.0,,both,A,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+437,Early College High School,All Students,1.0,*,*,1.0,*,*,*,*,5.0,5.0,5.0,5.0,3.0,,both,A,both,37.0,100,24.2,20.5,24.5,22.6,23.1,**,**,**,**,both,37.0,**,**,37.0,**,**,both,hs
+445,Maplewood High,All Students,197.0,**,**,154.0,24,15.6,2.5,2.4,2.0,3.0,3.0,3.0,3.0,1.0,both,F,both,140.0,98,12.2,14.3,13.9,15.2,14,**,**,**,**,both,199.0,144,72.4,199.0,143,71.9,both,hs
+450,Margaret Allen Middle,All Students,131.0,13,9.9,79.0,25,31.6,2.6,2.7,3.0,5.0,3.0,4.0,3.0,3.0,both,F,both,,,,,,,,,,,,left_only,,,,,,,left_only,middle
+456,Martin Luther King Jr School,,,,,,,,,,5.0,5.0,5.0,5.0,5.0,3.0,right_only,A,both,242.0,100,26.8,25.9,27.4,26,26.7,**,**,**,**,both,244.0,**,**,244.0,241,98.8,both,hs
+465,McGavock Elementary,All Students,137.0,9,6.6,91.0,51,56,2.6,2.8,5.0,4.0,4.0,4.0,5.0,,both,D,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+470,McGavock High,All Students,292.0,**,**,233.0,37,15.9,2.7,2.7,1.0,3.0,1.0,1.0,1.0,2.0,both,F,both,356.0,98,15.3,15.6,16.7,17.3,16.3,50,14,261,73.3,both,472.0,370,78.4,472.0,357,75.6,both,hs
+480,McMurray Middle,All Students,382.0,19,5,292.0,58,19.9,2.6,2.8,3.0,4.0,1.0,2.0,4.0,3.0,both,F,both,,,,,,,,,,,,left_only,,,,,,,left_only,middle
+490,John Trotwood Moore Middle,All Students,6.0,*,*,5.0,*,*,*,*,5.0,5.0,5.0,5.0,4.0,4.0,both,A,both,,,,,,,,,,,,left_only,,,,,,,left_only,middle
+493,Mt. View Elementary,All Students,422.0,40,9.5,281.0,149,53,2.8,3,5.0,5.0,3.0,5.0,,,both,D,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+510,Napier Elementary,All Students,6.0,*,*,4.0,*,*,*,*,4.0,3.0,5.0,4.0,3.0,,both,F,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+512,Nashville School Of The Arts,All Students,4.0,*,*,3.0,*,*,*,*,,,,,,,left_only,A,both,142.0,100,21,17.8,22.4,20.2,20.5,69,48.6,51,35.9,both,147.0,142,96.6,147.0,141,95.9,both,hs
+512,Nashville School of the Arts,,,,,,,,,,5.0,5.0,3.0,5.0,3.0,5.0,right_only,,left_only,,,,,,,,,,,,left_only,,,,,,,left_only,hs
+515,Neely's Bend Elementary,All Students,143.0,13,9.1,104.0,60,57.7,2.7,2.9,1.0,3.0,1.0,1.0,1.0,3.0,both,D,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+525,Norman Binkley Elementary,All Students,448.0,41,9.2,298.0,178,59.7,2.6,2.8,5.0,5.0,3.0,5.0,3.0,,both,C,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+535,Old Center Elementary,All Students,87.0,8,9.2,60.0,34,56.7,2.8,3,2.0,3.0,2.0,2.0,3.0,,both,C,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+538,William Henry Oliver Middle,All Students,125.0,12,9.6,97.0,38,39.2,2.8,3,2.0,4.0,3.0,4.0,1.0,3.0,both,C,both,,,,,,,,,,,,left_only,,,,,,,left_only,middle
+540,Paragon Mills Elementary,All Students,365.0,30,8.2,243.0,122,50.2,2.6,2.7,4.0,5.0,3.0,4.0,,,both,F,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+545,Park Avenue Elementary,All Students,20.0,**,**,13.0,5,38.5,2.3,2.5,3.0,3.0,3.0,3.0,3.0,,both,F,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+555,Pearl-Cohn High,All Students,27.0,4,14.8,21.0,5,23.8,3,2.9,1.0,4.0,1.0,1.0,4.0,1.0,both,F,both,132.0,99,12.7,14.6,14.3,15.6,14.5,**,**,**,**,both,157.0,136,86.6,157.0,136,86.6,both,hs
+565,Pennington Elementary,All Students,41.0,**,**,29.0,16,55.2,2.7,2.8,1.0,3.0,1.0,2.0,2.0,,both,D,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+570,Percy Priest Elementary,All Students,13.0,3,23.1,8.0,*,*,3.5,3.8,3.0,3.0,3.0,3.0,4.0,,both,A,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+595,Rose Park Middle,All Students,7.0,*,*,6.0,*,*,*,*,2.0,3.0,1.0,1.0,3.0,3.0,both,B,both,,,,,,,,,,,,left_only,,,,,,,left_only,middle
+600,Rosebank Elementary,All Students,21.0,**,**,18.0,10,55.6,2.8,3,4.0,3.0,5.0,4.0,3.0,,both,B,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+607,Ruby Major Elementary,All Students,66.0,5,7.6,45.0,25,55.6,2.8,3.1,4.0,3.0,3.0,3.0,5.0,,both,C,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+608,May Werthan Shayne Elementary School,All Students,181.0,16,8.8,130.0,53,40.8,2.8,2.9,5.0,4.0,5.0,5.0,,,both,B,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+610,Shwab Elementary,All Students,138.0,**,**,103.0,66,64.1,2.8,2.9,3.0,3.0,3.0,3.0,3.0,,both,D,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+615,Stanford Elementary,All Students,15.0,3,20,11.0,8,72.7,3.5,3.9,2.0,1.0,3.0,2.0,2.0,,both,A,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+618,Robert Churchwell Elementary,All Students,28.0,3,10.7,16.0,7,43.8,2.7,2.8,5.0,5.0,3.0,5.0,3.0,,both,F,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+620,Stratford STEM Magnet School,All Students,99.0,8,8.1,85.0,25,29.4,2.8,2.7,1.0,1.0,4.0,3.0,3.0,1.0,both,F,both,118.0,99,13.2,14.5,15.4,16.1,15,11,9.3,96,81.4,both,160.0,126,78.8,160.0,125,78.1,both,hs
+622,Madison Middle,All Students,112.0,**,**,85.0,19,22.4,2.6,2.8,5.0,5.0,5.0,5.0,3.0,1.0,both,F,both,,,,,,,,,,,,left_only,,,,,,,left_only,middle
+625,Stratton Elementary,All Students,225.0,**,**,154.0,53,34.4,2.5,2.7,3.0,3.0,3.0,3.0,2.0,,both,F,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+630,Sylvan Park Elementary,All Students,6.0,*,*,5.0,*,*,*,*,4.0,3.0,4.0,4.0,2.0,,both,A,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+633,Thurgood Marshall Middle,All Students,272.0,17,6.3,216.0,55,25.5,2.8,2.9,3.0,5.0,3.0,4.0,3.0,1.0,both,D,both,,,,,,,,,,,,left_only,,,,,,,left_only,middle
+635,Tom Joy Elementary,All Students,137.0,**,**,105.0,43,41,2.4,2.6,3.0,3.0,3.0,3.0,3.0,,both,F,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+637,Tulip Grove Elementary,All Students,166.0,15,9,122.0,70,57.4,2.9,3,3.0,3.0,4.0,3.0,1.0,,both,D,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+645,Tusculum Elementary,All Students,439.0,43,9.8,291.0,164,56.4,2.6,2.8,5.0,5.0,5.0,5.0,,,both,D,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+650,Two Rivers Middle,All Students,59.0,3,5.1,46.0,10,21.7,2.6,2.7,1.0,1.0,4.0,2.0,1.0,1.0,both,F,both,,,,,,,,,,,,left_only,,,,,,,left_only,middle
+655,Una Elementary,All Students,456.0,**,**,273.0,117,42.9,2.4,2.5,5.0,5.0,4.0,5.0,3.0,,both,D,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+670,Carter-Lawrence Elementary,All Students,14.0,5,35.7,13.0,7,53.8,3.5,3.7,3.0,3.0,4.0,3.0,3.0,,both,D,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+675,Warner Elementary,All Students,12.0,1,8.3,10.0,4,40,3.1,3.4,3.0,4.0,3.0,3.0,3.0,,both,C,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+690,West End Middle,All Students,9.0,*,*,6.0,*,*,*,*,5.0,5.0,5.0,5.0,5.0,5.0,both,A,both,,,,,,,,,,,,left_only,,,,,,,left_only,middle
+695,Westmeade Elementary,All Students,55.0,4,7.3,35.0,22,62.9,2.8,3.1,3.0,3.0,3.0,3.0,3.0,,both,C,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+700,Isaiah T. Creswell Middle School of the Arts,All Students,3.0,*,*,3.0,*,*,*,*,4.0,3.0,3.0,3.0,3.0,5.0,both,D,both,,,,,,,,,,,,left_only,,,,,,,left_only,middle
+704,Whites Creek High,All Students,50.0,3,6,40.0,16,40,3.1,3,5.0,5.0,3.0,5.0,5.0,3.0,both,F,both,117.0,98,12.7,14.7,14.9,15.6,14.6,**,**,**,**,both,151.0,123,81.5,151.0,123,81.5,both,hs
+715,Wright Middle,All Students,408.0,**,**,314.0,47,15,2.5,2.6,2.0,3.0,3.0,2.0,2.0,4.0,both,F,both,,,,,,,,,,,,left_only,,,,,,,left_only,middle
+750,Smith Springs Elementary School,All Students,267.0,24,9,175.0,86,49.1,2.8,2.9,4.0,3.0,5.0,4.0,,,both,D,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
+755,Waverly-Belmont Elementary School,All Students,15.0,2,13.3,6.0,*,*,3.1,3.4,3.0,2.0,4.0,3.0,4.0,,both,A,both,,,,,,,,,,,,left_only,,,,,,,left_only,elementary
