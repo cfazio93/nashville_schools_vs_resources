@@ -1,0 +1,29 @@
+folium 
+
+grad cap <a href="https://www.flaticon.com/free-icons/education" title="education icons">Education icons created by Freepik - Flaticon</a>
+
+gradcap black <a href="https://www.flaticon.com/free-icons/school" title="school icons">School icons created by Freepik - Flaticon</a>
+
+school <a href="https://www.flaticon.com/free-icons/school" title="school icons">School icons created by Freepik - Flaticon</a>
+
+book black <a href="https://www.flaticon.com/free-icons/book" title="book icons">Book icons created by Freepik - Flaticon</a>
+
+library <a href="https://www.flaticon.com/free-icons/library" title="library icons">Library icons created by Freepik - Flaticon</a>
+
+black star <a href="https://www.flaticon.com/free-icons/highlight" title="highlight icons">Highlight icons created by meaicon - Flaticon</a>
+
+blue star <a href="https://www.flaticon.com/free-icons/ui" title="ui icons">Ui icons created by Dwi ridwanto - Flaticon</a>
+
+red star <a href="https://www.flaticon.com/free-icons/favorite" title="favorite icons">Favorite icons created by HideMaru - Flaticon</a>
+
+green star <a href="https://www.flaticon.com/free-icons/ui" title="ui icons">Ui icons created by meaicon - Flaticon</a>\
+
+black trees <a href="https://www.flaticon.com/free-icons/forest" title="forest icons">Forest icons created by Victoruler - Flaticon</a>
+
+school icon <a href="https://www.flaticon.com/free-icons/school" title="school icons">School icons created by nawicon - Flaticon</a>
+
+green trees <a href="https://www.flaticon.com/free-icons/forest" title="forest icons">Forest icons created by Freepik - Flaticon</a>
+
+color books <a href="https://www.flaticon.com/free-icons/library" title="library icons">Library icons created by popo2021 - Flaticon</a>
+
+books blue <a href="https://www.flaticon.com/free-icons/library" title="library icons">Library icons created by Haris Masood - Flaticon</a>
