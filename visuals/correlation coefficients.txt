@@ -1,0 +1,85 @@
+school_number', 'school_name', 'wida_pct_exit',
+       'wida_pct_met_growth_standard', 'wida_literacy_avg', 'wida_comp_avg',
+       'tvaas_overall_comp', 'tvaas_lit_comp', 'tvaas_num_comp',
+       'tvaas_litandnum_comp', 'tvaas_sci_comp', 'tvaas_ss_comp',
+       'letter_grade', 'act_validtests', 'act_part_rate', 'act_avg_eng',
+       'act_avg_math', 'act_avg_reading', 'act_avg_sci', 'act_avg_comp',
+       'pct_scoring_21orhigher', 'pct_scoring_below19', 'hs_grad_cohort_state',
+       'hs_grad_count_state', 'hs_grad_rate_state', 'hs_grad_cohort_federal',
+       'hs_grad_count_federal', 'hs_grad_rate_federal', 'school_type',
+       'short_address', 'city', 'zip', 'metro_dist', 'schbrd_dist',
+       'schbrd_mbr', 'long', 'lat', 'cluster_name', 'within_1mile_library',
+       'within_3miles_library', 'within_5miles_library', 'within_1mile_park',
+       'within_3miles_park', 'within_5miles_park', 'within_1mile_bus',
+       'within_3miles_bus', 'within_5miles_bus', 'library_score', 'park_score',
+       'bus_score', 'total_resource_score', 'high_poverty'
+
+
+Correlation Coefficient (ACT Average Composite Score vs. Total Resource Score): 0.3415347635218584
+
+Correlation Coefficient (ACT Average Composite Score vs. Library Score): 0.4555940908199337
+
+Correlation Coefficient (ACT Average Composite Score vs. Bus Score): 0.2912059975040182
+
+Correlation Coefficient (ACT Average Composite Score vs. Park Score): 0.10817374206353371
+
+Correlation between total_resource_score and act_avg_eng: 0.3310
+Correlation between total_resource_score and act_avg_math: 0.3426
+Correlation between total_resource_score and act_avg_reading: 0.3305
+Correlation between total_resource_score and act_avg_sci: 0.3392
+
+Correlation between library_score and act_avg_eng: 0.4270
+Correlation between library_score and act_avg_math: 0.4769
+Correlation between library_score and act_avg_reading: 0.4481
+Correlation between library_score and act_avg_sci: 0.4492
+
+Correlation between park_score and act_avg_eng: 0.1114
+Correlation between park_score and act_avg_math: 0.1054
+Correlation between park_score and act_avg_reading: 0.0929
+Correlation between park_score and act_avg_sci: 0.1092
+
+Correlation between bus_score and act_avg_eng: 0.2948
+Correlation between bus_score and act_avg_math: 0.2662
+Correlation between bus_score and act_avg_reading: 0.2876
+Correlation between bus_score and act_avg_sci: 0.2915
+
+Correlation between total_resource_score and tvaas_overall_comp: -0.0210
+Correlation between total_resource_score and tvaas_lit_comp: -0.0556
+Correlation between total_resource_score and tvaas_num_comp: 0.0478
+Correlation between total_resource_score and tvaas_litandnum_comp: -0.0208
+Correlation between total_resource_score and tvaas_sci_comp: -0.0334
+Correlation between total_resource_score and tvaas_ss_comp: -0.1809
+Correlation between total_resource_score and wida_pct_met_growth_standard: -0.0399
+Correlation between total_resource_score and wida_literacy_avg: -0.1605
+Correlation between total_resource_score and wida_comp_avg: -0.1391
+
+Correlation between library_score and tvaas_overall_comp: 0.0296
+Correlation between library_score and tvaas_lit_comp: -0.0293
+Correlation between library_score and tvaas_num_comp: 0.0615
+Correlation between library_score and tvaas_litandnum_comp: 0.0064
+Correlation between library_score and tvaas_sci_comp: 0.0234
+Correlation between library_score and tvaas_ss_comp: -0.1809
+Correlation between library_score and wida_pct_met_growth_standard: -0.0455
+Correlation between library_score and wida_literacy_avg: -0.0721
+Correlation between library_score and wida_comp_avg: -0.0152
+
+Correlation between park_score and tvaas_overall_comp: -0.0749
+Correlation between park_score and tvaas_lit_comp: -0.0961
+Correlation between park_score and tvaas_num_comp: 0.0310
+Correlation between park_score and tvaas_litandnum_comp: -0.0446
+Correlation between park_score and tvaas_sci_comp: -0.0833
+Correlation between park_score and tvaas_ss_comp: -0.2895
+Correlation between park_score and wida_pct_met_growth_standard: -0.0555
+Correlation between park_score and wida_literacy_avg: -0.0948
+Correlation between park_score and wida_comp_avg: -0.1052
+
+
+Correlation between bus_score and tvaas_overall_comp: -0.0002
+Correlation between bus_score and tvaas_lit_comp: 0.0090
+Correlation between bus_score and tvaas_num_comp: 0.0114
+Correlation between bus_score and tvaas_litandnum_comp: -0.0084
+Correlation between bus_score and tvaas_sci_comp: -0.0196
+Correlation between bus_score and tvaas_ss_comp: 0.1296
+Correlation between bus_score and wida_pct_met_growth_standard: 0.0255
+Correlation between bus_score and wida_literacy_avg: -0.2053
+Correlation between bus_score and wida_comp_avg: -0.2079
