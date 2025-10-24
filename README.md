@@ -1,6 +1,4 @@
 # Nashville Schools vs. Resources
-![Mapping Nashville: Schools and Nearby Resources](./visuals/map with 1 mile radius.png]
-
 
 ## Table of Contents:
 * [Project Overview](#project-overview)
@@ -37,19 +35,21 @@ In Nashville, almost everyone relies on a car, which makes accessing resources m
 
 ## Data Sources
 
-### <ins>School Data</ins> 
+### <ins>School Performance Data</ins> 
 All of the _School Performance Data_ came from the TN Dept. of Education website: https://www.tn.gov/education/districts/federal-programs-and-oversight/data/data-downloads.html   
 
 	- ACT Data (School-level 2023-24) 
 
 	- English Language Proficiency Assessment (2023-2024, School Level)
 
+	- Graduation Cohort Data (2023-24, School)
+
 	- School Letter Grade (2023-24 A-F Letter Grade File) 
 
 	- TVAAS Composites (2023-24 Composite) 
 
 
-Other school data (current as of 9/2025): 
+Additional School Data (current as of 9/2025): 
 
 	- School Locations: https://www.arcgis.com/home/item.html?id=a25c1ef058a247cfa2636a396f3aaedd#data
 	- TN Dept. of Education High-Poverty Schools (2021): I used this list to create a list of 'high-poverty' schools in MNPS to use on Python (https://www.tn.gov/content/dam/tn/education/esser-planning-resources/High_Poverty_Schools_TN_2021-07-30.pdf)
@@ -63,26 +63,26 @@ Other school data (current as of 9/2025):
 
 
 ## Limitations:
-	-no file with school addresses -- had to add manually 
+	-One major limitation was that I was unable to locate a downloadable dataset that contained the locations of MNPS schools. I used the 'School Locations' table and entered the information manually on my schools info XLSX file.  
 
 ## Technologies Used: 
--Excel: the original data was from XLSX and CSV files. After cleaning and exploring on Python, I also returned to Excel for some final cleaning/spot-checking.
+-Excel: The original data was from XLSX and CSV files. After cleaning and exploring on Python, I also returned to Excel for some final cleaning/spot-checking.
 
--Python 
+-Python: I spent most of my time cleaning and exploring the data in Python.
 
--PowerBI
+-PowerBI: After cleaning the data, I uploaded my final XLSX file to PowerBI to create a dashboard. 
 
--Git
 
-Analysis 
 
-Conclusions 
+## Analysis 
 
-Next Steps
+## Conclusions 
 
-Recommendations 
+## Next Steps
 
-Dashboard 
+## Recommendations 
 
-Folium Map
-Check out my interactive map! Use it to locate schools, libraries, parks/community centers, and bus stops. 
+## Dashboard 
+
+## Folium Map
+Check out my interactive map! Use it to locate schools, libraries, parks/community centers, and bus stops. https://github.com/cfazio93/nashville_schools_vs_resources/blob/main/visuals/nashville_map.html
