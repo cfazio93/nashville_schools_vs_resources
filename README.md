@@ -1,6 +1,6 @@
-# nashville_schools_vs_resources
+# Nashville Schools vs. Resources
 
-## Table of contents
+## Table of Contents:
 * [Project Overview](#project-overview)
 * [Motivation](#motivation)
 * [Initial Questions](#initial-questions)
@@ -14,12 +14,12 @@
 * [Dashboard] (#dashboard)
 * [Folium Map] (#folium-map)
 
-## Project Overview: 
+## Project Overview 
 This project investigates the public resources (libraries, parks, bus stops, etc.) in the Metro Nashville area, and if there is a connection between available resources in a neighborhood and that neighborhood’s public school performance. 
 
 As a long-term resident of Nashville and teacher, I wanted to understand how resources may or may not impact student performance. As an educator, I am always interested in the nearby resources available so I can connect families to them. This project focuses on school performance data and Nashville location data.  
 
-## Motivation: 
+## Motivation 
 My motivations and inspirations for this project come from my experiences growing up in NYC, and my recent experiences as a teacher the Nashville area.  
 
 Growing up in New York City, public resources felt endless. There are over 200 public libraries, and several public transit options (NYC public school students are also given free access to transit). Since there are so many resources within walking distance, and it is so much easier to travel to resources that are further away, everything is more accessible. Students and families are not as confined to their neighborhoods, and not having to rely on a car makes a huge difference. 
@@ -27,20 +27,32 @@ Growing up in New York City, public resources felt endless. There are over 200 p
 In Nashville, almost everyone relies on a car, which makes accessing resources more difficult. There is also a discrepancy between school performance and income/poverty levels in the area. Additionally, there are differences in how students get to school. Some schools offer buses, but if students choose an ‘option’, charter, or magnet school, they are often responsible for getting to school themselves. 
 
 
-## Initial Questions: 
+## Initial Questions 
 1) How did MNPS schools perform in the 2023-2024 school year?
 2) How many public resources (libraries, parks/community centers, bus stops) are there in the Metro Nashville area?
 3) How close are schools to public resources? What is each school's 'resource score'?
 4) Is there a connection between a school's performance and its proximity to these public resources? 
 
-## Data Sources:
--TVAAS Data (2023-2024)
--WIDA Data (2023-2024)
--Letter Grades (2023-2024)
--
+## Data Sources
+
+### School Data (2023-2024 schoool year)  
+	- A-F Letter Grades 
+	- ACT Data 
+	- School Locations: https://www.arcgis.com/home/item.html?id=a25c1ef058a247cfa2636a396f3aaedd#data
+	- TN Dept. of Education High-Poverty Schools (2021): I used this list to create a list of 'high-poverty' schools in MNPS to use on Python (https://www.tn.gov/content/dam/tn/education/esser-planning-resources/High_Poverty_Schools_TN_2021-07-30.pdf)
+	- TVAAS Data 
+	- WIDA Data 
+
+
+### Nashville Geographical Data (current as of 9/2025)  
+	- Bus Stop Locations: data request required from https://www.wegotransit.com/contact-us/developer-data-requests/)
+	- Library Facilities: https://data.nashville.gov/datasets/library-facilities/about  
+	- Parks Facilities: https://data.nashville.gov/datasets/park-facilities/about
+	- Zip Code Boundaries: https://data.nashville.gov/datasets/zip-code-boundaries-1
+
 
 ## Limitations:
--no file with school addresses -- had to add manually 
+	-no file with school addresses -- had to add manually 
 
 ## Technologies Used: 
 -Excel: the original data was from XLSX and CSV files. After cleaning and exploring on Python, I also returned to Excel for some final cleaning/spot-checking.
