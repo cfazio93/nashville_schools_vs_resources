@@ -56,7 +56,7 @@ Additional School Data (current as of 9/2025)
 
 ### <ins>Nashville Resources and Geographical Data</ins> (current as of 9/2025)  
 
-	- [Bus Stop Locations](https://www.wegotransit.com/contact-us/developer-data-requests/): data request required
+	- [Bus Stop Locations](https://www.wegotransit.com/contact-us/developer-data-requests/ "Data request required")
 	- [Library Facilities](https://data.nashville.gov/datasets/library-facilities/about)  
 	- [Parks Facilities](https://data.nashville.gov/datasets/park-facilities/about)
 	- [Zip Code Boundaries](https://data.nashville.gov/datasets/zip-code-boundaries-1)
