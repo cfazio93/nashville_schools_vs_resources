@@ -31,20 +31,21 @@ In Nashville, almost everyone relies on a car, which makes accessing resources m
 1) How did MNPS schools perform in the 2023-2024 school year?
 2) How many public resources (libraries, parks/community centers, bus stops) are there in the Metro Nashville area?
 3) How close are schools to public resources? What is each school's 'resource score'?
-4) Is there a connection between a school's performance and its proximity to these public resources? 
+4) _Is there a connection between a school's performance and its proximity to these public resources?_
 
 ## Data Sources
 
-### School Data (2023-2024 schoool year)  
-	- A-F Letter Grades 
-	- ACT Data 
+### <ins>School Data</ins> 
+All of the _School Performance Data_ came from the TN Dept. of Education website: https://www.tn.gov/education/districts/federal-programs-and-oversight/data/data-downloads.html   
+	- ACT Data (School-level 2023-24) 
+	- English Language Proficiency Assessment (2023-2024, School Level)
+	- School Letter Grade (2023-24 A-F Letter Grade File) 
+	- TVAAS Composites (2023-24 Composite) 
+Other school data (current as of 9/2025): 
 	- School Locations: https://www.arcgis.com/home/item.html?id=a25c1ef058a247cfa2636a396f3aaedd#data
 	- TN Dept. of Education High-Poverty Schools (2021): I used this list to create a list of 'high-poverty' schools in MNPS to use on Python (https://www.tn.gov/content/dam/tn/education/esser-planning-resources/High_Poverty_Schools_TN_2021-07-30.pdf)
-	- TVAAS Data 
-	- WIDA Data 
 
-
-### Nashville Geographical Data (current as of 9/2025)  
+### <ins>Nashville Resources and Geographical Data</ins> (current as of 9/2025)  
 	- Bus Stop Locations: data request required from https://www.wegotransit.com/contact-us/developer-data-requests/)
 	- Library Facilities: https://data.nashville.gov/datasets/library-facilities/about  
 	- Parks Facilities: https://data.nashville.gov/datasets/park-facilities/about
