@@ -207,3 +207,4 @@ marimo/_lsp/
 __marimo__/
 visuals/books/
 visuals/books/
+data/bus_stops.txt
