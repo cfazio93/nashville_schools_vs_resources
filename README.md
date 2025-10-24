@@ -8,14 +8,14 @@
 * [Limitations](#limitations)
 * [Technologies Used](#technologies-used)
 * [Analysis](#analysis)
-* [Conclusions] (#conclusions)
-* [Next Steps] (#next-steps)
-* [Recommendations] (#recommendations)
-* [Dashboard] (#dashboard)
-* [Folium Map] (#folium-map)
+* [Conclusions](#conclusions)
+* [Next Steps](#next-steps)
+* [Recommendations](#recommendations)
+* [Dashboard](#dashboard)
+* [Folium Map](#folium-map)
 
 ## Project Overview 
-This project investigates the public resources (libraries, parks, bus stops, etc.) in the Metro Nashville area, and if there is a connection between available resources in a neighborhood and that neighborhood’s public school performance. 
+This project investigates the public resources (libraries, parks, bus stops, etc.) in the **Metro Nashville area**, and if there is a connection between available _resources_ in a neighborhood and that neighborhood’s _public school performance_. 
 
 As a long-term resident of Nashville and teacher, I wanted to understand how resources may or may not impact student performance. As an educator, I am always interested in the nearby resources available so I can connect families to them. This project focuses on school performance data and Nashville location data.  
 
@@ -36,7 +36,7 @@ In Nashville, almost everyone relies on a car, which makes accessing resources m
 ## Data Sources
 
 ### <ins>School Performance Data</ins> 
-All of the _School Performance Data_ came from the TN Dept. of Education website: https://www.tn.gov/education/districts/federal-programs-and-oversight/data/data-downloads.html   
+All of the _School Performance Data_ came from the [TN Dept. of Education website](https://www.tn.gov/education/districts/federal-programs-and-oversight/data/data-downloads.html)   
 
 	- ACT Data (School-level 2023-24) 
 
@@ -49,17 +49,17 @@ All of the _School Performance Data_ came from the TN Dept. of Education website
 	- TVAAS Composites (2023-24 Composite) 
 
 
-Additional School Data (current as of 9/2025): 
+Additional School Data (current as of 9/2025) 
 
-	- School Locations: https://www.arcgis.com/home/item.html?id=a25c1ef058a247cfa2636a396f3aaedd#data
-	- TN Dept. of Education High-Poverty Schools (2021): I used this list to create a list of 'high-poverty' schools in MNPS to use on Python (https://www.tn.gov/content/dam/tn/education/esser-planning-resources/High_Poverty_Schools_TN_2021-07-30.pdf)
+	- [School Locations](https://www.arcgis.com/home/item.html?id=a25c1ef058a247cfa2636a396f3aaedd#data)
+	- [TN Dept. of Education High-Poverty Schools](https://www.tn.gov/content/dam/tn/education/esser-planning-resources/High_Poverty_Schools_TN_2021-07-30.pdf): I used this list to create a list of 'high-poverty' schools in MNPS to use on Python. _Note_ the most recent data I could find was from 2021. 
 
 ### <ins>Nashville Resources and Geographical Data</ins> (current as of 9/2025)  
 
-	- Bus Stop Locations: data request required from https://www.wegotransit.com/contact-us/developer-data-requests/)
-	- Library Facilities: https://data.nashville.gov/datasets/library-facilities/about  
-	- Parks Facilities: https://data.nashville.gov/datasets/park-facilities/about
-	- Zip Code Boundaries: https://data.nashville.gov/datasets/zip-code-boundaries-1
+	- [Bus Stop Locations](https://www.wegotransit.com/contact-us/developer-data-requests/): data request required
+	- [Library Facilities](https://data.nashville.gov/datasets/library-facilities/about)  
+	- [Parks Facilities](https://data.nashville.gov/datasets/park-facilities/about)
+	- [Zip Code Boundaries](https://data.nashville.gov/datasets/zip-code-boundaries-1)
 
 
 ## Limitations:
@@ -71,7 +71,6 @@ Additional School Data (current as of 9/2025):
 -Python: I spent most of my time cleaning and exploring the data in Python.
 
 -PowerBI: After cleaning the data, I uploaded my final XLSX file to PowerBI to create a dashboard. 
-
 
 
 ## Analysis 
