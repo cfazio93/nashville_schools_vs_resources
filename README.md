@@ -75,26 +75,19 @@ All of the _School Performance Data_ came from the [TN Dept. of Education websit
 I examined _public schools_ only (and left out charters - since they are not dependent on geographic location). There were 117 schools in total, with 70 elementary, 29 middle, and 18 high schools. Most schools are located in Nashville, but several are in other cities as well. It is also significant that 23% of schools were designated by the state as high-poverty schools.
 
 **When I analyzed school performance, I found:** 
-
--most schools received a letter grade of a 'D' or 'F'
-
--the average WIDA (English Language Proficiency Assessment) composite score was 2.85/6
-
--the average TVAAS overall composite score was 3.42/5
-
--the average ACT composite score was 17.73/36
+- most schools received a letter grade of a 'D' or 'F'
+- the average WIDA (English Language Proficiency Assessment) composite score was 2.85/6
+- the average TVAAS overall composite score was 3.42/5
+- the average ACT composite score was 17.73/36
 
 **Next, I examined public resources in the area:** 
-
--21 libraries
-
--64 parks and community centers
-
--1631 bus stops 
+- 21 libraries
+- 64 parks and community centers
+- 1631 bus stops 
 
 I began to investigate connections between _school performance_ and _proximity to resources_. Overall, there was not a lot of correlation. However, there were some **notable connections:** 
--ACT scores vs. library scores (+ correlation)
--ACT scores vs. total resource scores (+ correlation) 
+- ACT scores vs. library scores (+ correlation)
+- ACT scores vs. total resource scores (+ correlation) 
 
 I was not surprised by the lack of correlation school performance and proxmity to resources. However, I was very surprised by how many schools are not near resources. 77/117 schools were more than 1 mile away from a library. I would love to know what we can do to support those students and families, since libraries serve as hubs for so many different resources and community events. It was also interesting to note that there were 24 schools within 1 mile of a library that earned a 'D' or an 'F'. I would also love to know what we can do to support those students and families and help them leverage nearby resources.  
 
@@ -108,33 +101,22 @@ If I were to build onto this project my next steps would be to:
 ## Recommendations: 
 
 My recommendation for MNPS and for the city of Nashville would be for them to really investigate school and community partnerships. 
-
--Are schools already utilizing community resources?
-
--Are schools already partnering with community organizations?
-
--If there are schools that do have strong existing partnerships, how can we replicate their systems across the district?
-
--How can we supporty schools in resource 'deserts'?
-
--How can we improve school performance in areas that are 'rich' in resources? 
+- Are schools already utilizing community resources?
+- Are schools already partnering with community organizations?
+- If there are schools that do have strong existing partnerships, how can we replicate their systems across the district?
+- How can we supporty schools in resource 'deserts'?
+- How can we improve school performance in areas that are 'rich' in resources? 
 
 ## Dashboard 
 I used PowerBI to make interactive dashboards and visuals. Pages include: 
 
--**MNPS Overview**: general information about MNPS schools
-
--**Zooming In - ALL**: overall district performance in '23-'24 school year
-
--**Zooming In - HS**: overall district performance for high schools in '23-'24 school year 
-
--**Resources Overview**: general information about public resources in the Metro Nashville area
-
--**Resource Score**: information on how I calculated resource scores for each school
-
--**Heatmap**: correlation between school performance and proximity to resources 
-
--**Clusters**: filtering on MNPS data by Geographic Cluster
+- **MNPS Overview**: general information about MNPS schools
+- **Zooming In - ALL**: overall district performance in '23-'24 school year
+- **Zooming In - HS**: overall district performance for high schools in '23-'24 school year 
+- **Resources Overview**: general information about public resources in the Metro Nashville area
+- **Resource Score**: information on how I calculated resource scores for each school
+- **Heatmap**: correlation between school performance and proximity to resources 
+- **Clusters**: filtering on MNPS data by Geographic Cluster
 
 ## Folium Map
 Check out my [interactive map!](https://github.com/cfazio93/nashville_schools_vs_resources/blob/main/visuals/nashville_map.html) 
