@@ -1,4 +1,6 @@
 # Nashville Schools vs. Resources
+![Mapping Nashville: Schools and Nearby Resources](./visuals/map with 1 mile radius.png]
+
 
 ## Table of Contents:
 * [Project Overview](#project-overview)
@@ -37,15 +39,23 @@ In Nashville, almost everyone relies on a car, which makes accessing resources m
 
 ### <ins>School Data</ins> 
 All of the _School Performance Data_ came from the TN Dept. of Education website: https://www.tn.gov/education/districts/federal-programs-and-oversight/data/data-downloads.html   
+
 	- ACT Data (School-level 2023-24) 
+
 	- English Language Proficiency Assessment (2023-2024, School Level)
+
 	- School Letter Grade (2023-24 A-F Letter Grade File) 
+
 	- TVAAS Composites (2023-24 Composite) 
+
+
 Other school data (current as of 9/2025): 
+
 	- School Locations: https://www.arcgis.com/home/item.html?id=a25c1ef058a247cfa2636a396f3aaedd#data
 	- TN Dept. of Education High-Poverty Schools (2021): I used this list to create a list of 'high-poverty' schools in MNPS to use on Python (https://www.tn.gov/content/dam/tn/education/esser-planning-resources/High_Poverty_Schools_TN_2021-07-30.pdf)
 
 ### <ins>Nashville Resources and Geographical Data</ins> (current as of 9/2025)  
+
 	- Bus Stop Locations: data request required from https://www.wegotransit.com/contact-us/developer-data-requests/)
 	- Library Facilities: https://data.nashville.gov/datasets/library-facilities/about  
 	- Parks Facilities: https://data.nashville.gov/datasets/park-facilities/about
@@ -57,8 +67,11 @@ Other school data (current as of 9/2025):
 
 ## Technologies Used: 
 -Excel: the original data was from XLSX and CSV files. After cleaning and exploring on Python, I also returned to Excel for some final cleaning/spot-checking.
+
 -Python 
+
 -PowerBI
+
 -Git
 
 Analysis 
