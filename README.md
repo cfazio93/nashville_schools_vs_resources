@@ -64,41 +64,33 @@ All of the _School Performance Data_ came from the [TN Dept. of Education websit
 -For school performance data, I chose to use available data from the 2023-2024 school year. Obviously, this only represents one moment in time and does not show the full picture for schools. Ideally, I would love to include data from multiple years. This would be tricky due to different formatting and available data from the state of TN. 
 
 ## Technologies Used: 
--**Excel**: The original data was from XLSX and CSV files. After cleaning and exploring on Python, I also returned to Excel for some final cleaning/spot-checking.
+**Excel**: The original data was from XLSX and CSV files. After cleaning and exploring on Python, I also returned to Excel for some final cleaning/spot-checking.
 
--**Python**: I spent most of my time cleaning and exploring the data in Python.
+**Python**: I spent most of my time cleaning and exploring the data in Python.
 
--**PowerBI**: After cleaning the data, I uploaded my final XLSX file to PowerBI to create a dashboard. 
+**PowerBI**: After cleaning the data, I uploaded my final XLSX file to PowerBI to create a dashboard. 
 
 ## Conclusions 
 
 I examined _public schools_ only (and left out charters - since they are not dependent on geographic location). There were 117 schools in total, with 70 elementary, 29 middle, and 18 high schools. Most schools are located in Nashville, but several are in other cities as well. It is also significant that 23% of schools were designated by the state as high-poverty schools.
 
-When I analyzed **school performance**, I found: 
+**When I analyzed school performance, I found:** 
 
 -most schools received a letter grade of a 'D' or 'F'
-
 -the average WIDA (English Language Proficiency Assessment) composite score was 2.85/6
-
 -the average TVAAS overall composite score was 3.42/5
-
 -the average ACT composite score was 17.73/36
 
-Next, I examined public resources in the area: 
-
+**Next, I examined public resources in the area:** 
 -21 libraries
-
 -64 parks and community centers
-
 -1631 bus stops 
 
-I began to investigate connections between _school performance_ and _proximity to resources_. Overall, there was not a lot of correlation. However, there were some notable connections: 
-
+I began to investigate connections between _school performance_ and _proximity to resources_. Overall, there was not a lot of correlation. However, there were some **notable connections:** 
 -ACT scores vs. library scores (+ correlation)
-
 -ACT scores vs. total resource scores (+ correlation) 
 
-I was not surprised by the lack of correlation between the lack of correlation between school performance and proxmity to resources. However, I was very surprised by how many schools are not near resources, especially libraries. 77/117 schools were more than 1 mile away from a library. I would love to know what we can do to support those students and families, since libraries serve as hubs for so many different resources and community events. It was also interesting to note that there were 24 schools within 1 mile of a library that earned a 'D' or an 'F'. I would also love to know what we can do to support those students and families and help them leverage nearby resources.  
+I was not surprised by the lack of correlation school performance and proxmity to resources. However, I was very surprised by how many schools are not near resources. 77/117 schools were more than 1 mile away from a library. I would love to know what we can do to support those students and families, since libraries serve as hubs for so many different resources and community events. It was also interesting to note that there were 24 schools within 1 mile of a library that earned a 'D' or an 'F'. I would also love to know what we can do to support those students and families and help them leverage nearby resources.  
 
 ## Next Steps
 If I were to build onto this project my next steps would be to: 
