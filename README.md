@@ -35,32 +35,29 @@ In Nashville, almost everyone relies on a car, which makes accessing resources m
 
 ## Data Sources
 
-### <ins>School Performance Data</ins> 
-All of the _School Performance Data_ came from the [TN Dept. of Education website](https://www.tn.gov/education/districts/federal-programs-and-oversight/data/data-downloads.html)   
+### School Performance Data
 
-	- ACT Data (School-level 2023-24) 
+All of the _School Performance Data_ came from the [TN Dept. of Education website](https://www.tn.gov/education/districts/federal-programs-and-oversight/data/data-downloads.html).
 
-	- English Language Proficiency Assessment (2023-2024, School Level)
+- ACT Data (School-level 2023-24)  
+- English Language Proficiency Assessment (2023-2024, School Level)  
+- Graduation Cohort Data (2023-24, School)  
+- School Letter Grade (2023-24 A-F Letter Grade File)  
+- TVAAS Composites (2023-24 Composite)  
 
-	- Graduation Cohort Data (2023-24, School)
+**Additional School Data (current as of 9/2025):**
 
-	- School Letter Grade (2023-24 A-F Letter Grade File) 
+- [School Locations](https://www.arcgis.com/home/item.html?id=a25c1ef058a247cfa2636a396f3aaedd#data)  
+- [TN Dept. of Education High-Poverty Schools](https://www.tn.gov/content/dam/tn/education/esser-planning-resources/High_Poverty_Schools_TN_2021-07-30.pdf) – I used this list to create a list of 'high-poverty' schools in MNPS for Python. _Note_: the most recent data I could find was from 2021.  
 
-	- TVAAS Composites (2023-24 Composite) 
+### Nashville Resources and Geographical Data
 
+(current as of 9/2025)  
 
-Additional School Data (current as of 9/2025) 
-
-	- [School Locations](https://www.arcgis.com/home/item.html?id=a25c1ef058a247cfa2636a396f3aaedd#data)
-	- [TN Dept. of Education High-Poverty Schools](https://www.tn.gov/content/dam/tn/education/esser-planning-resources/High_Poverty_Schools_TN_2021-07-30.pdf): I used this list to create a list of 'high-poverty' schools in MNPS to use on Python. _Note_ the most recent data I could find was from 2021. 
-
-### <ins>Nashville Resources and Geographical Data</ins> (current as of 9/2025)  
-
-	- [Bus Stop Locations](https://www.wegotransit.com/contact-us/developer-data-requests/ "Data request required")
-	- [Library Facilities](https://data.nashville.gov/datasets/library-facilities/about)  
-	- [Parks Facilities](https://data.nashville.gov/datasets/park-facilities/about)
-	- [Zip Code Boundaries](https://data.nashville.gov/datasets/zip-code-boundaries-1)
-
+- [Bus Stop Locations](https://www.wegotransit.com/contact-us/developer-data-requests/ "Data request required")  
+- [Library Facilities](https://data.nashville.gov/datasets/library-facilities/about)  
+- [Parks Facilities](https://data.nashville.gov/datasets/park-facilities/about)  
+- [Zip Code Boundaries](https://data.nashville.gov/datasets/zip-code-boundaries-1)  
 
 ## Limitations:
 	-One major limitation was that I was unable to locate a downloadable dataset that contained the locations of MNPS schools. I used the 'School Locations' table and entered the information manually on my schools info XLSX file.  
