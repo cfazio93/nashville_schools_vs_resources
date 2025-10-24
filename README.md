@@ -59,9 +59,8 @@ All of the _School Performance Data_ came from the [TN Dept. of Education websit
 - [Zip Code Boundaries](https://data.nashville.gov/datasets/zip-code-boundaries-1)  
 
 ## Limitations:
--One major limitation was that I was unable to locate a downloadable dataset that contained the locations of MNPS schools. I used the 'School Locations' table and entered the information manually on my schools info XLSX file.  
-
--For school performance data, I chose to use available data from the 2023-2024 school year. Obviously, this only represents one moment in time and does not show the full picture for schools. Ideally, I would love to include data from multiple years. This would be tricky due to different formatting and available data from the state of TN. 
+- One major limitation was that I was unable to locate a downloadable dataset that contained the locations of MNPS schools. I used the 'School Locations' table and entered the information manually on my schools info XLSX file.  
+- For school performance data, I chose to use available data from the 2023-2024 school year. Obviously, this only represents one moment in time and does not show the full picture for schools. Ideally, I would love to include data from multiple years. This would be tricky due to different formatting and available data from the state of TN. 
 
 ## Technologies Used: 
 **Excel**: The original data was from XLSX and CSV files. After cleaning and exploring on Python, I also returned to Excel for some final cleaning/spot-checking.
