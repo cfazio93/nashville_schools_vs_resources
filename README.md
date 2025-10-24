@@ -77,13 +77,19 @@ I examined _public schools_ only (and left out charters - since they are not dep
 **When I analyzed school performance, I found:** 
 
 -most schools received a letter grade of a 'D' or 'F'
+
 -the average WIDA (English Language Proficiency Assessment) composite score was 2.85/6
+
 -the average TVAAS overall composite score was 3.42/5
+
 -the average ACT composite score was 17.73/36
 
 **Next, I examined public resources in the area:** 
+
 -21 libraries
+
 -64 parks and community centers
+
 -1631 bus stops 
 
 I began to investigate connections between _school performance_ and _proximity to resources_. Overall, there was not a lot of correlation. However, there were some **notable connections:** 
