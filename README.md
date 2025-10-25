@@ -7,8 +7,8 @@
 * [Data Sources](#data-sources)
 * [Limitations](#limitations)
 * [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Next Steps](#next-steps)
+* [Analysis](#analysis)
+* [Conclusions & Next Steps](#conclusions-and-next-steps)
 * [Recommendations](#recommendations)
 * [Dashboard](#dashboard)
 * [Folium Map](#folium-map)
@@ -69,7 +69,7 @@ All of the _School Performance Data_ came from the [TN Dept. of Education websit
 
 **PowerBI**: After cleaning the data, I uploaded my final XLSX file to PowerBI to create a dashboard. 
 
-## Conclusions 
+## Analysis
 
 I examined _public schools_ only (and left out charters - since they are not dependent on geographic location). There were 117 schools in total, with 70 elementary, 29 middle, and 18 high schools. Most schools are located in Nashville, but several are in other cities as well. It is also significant that 23% of schools were designated by the state as high-poverty schools.
 
@@ -84,13 +84,33 @@ I examined _public schools_ only (and left out charters - since they are not dep
 - 64 parks and community centers
 - 1631 bus stops 
 
-I began to investigate connections between _school performance_ and _proximity to resources_. Overall, there was not a lot of correlation. However, there were some **notable connections:** 
+**Then, I created a formula to calculate resource scores for each school.** Each school received 3 individual resource scores, based on proximity to a:
+- library 
+- bus stop
+- park/community center (Nashville.gov data groups these together) 
+
+Each score ranges from 0-3. 
+- *score: 3* = within 1 mile of the resource
+- *score: 2* = within 3 miles of the resource
+- *score: 1* = within 5 miles of the resource
+- *score: 0* = more than 5 miles from the resource
+
+_Example: A school earning *library score: 3* is within 1 mile of a library._
+
+Then, I added the 3 scores together: 
+
+*Library Score + Bus Score + Park Score = Total Resource Score (0-9)*
+
+_A higher score = *closer to community resources*_
+
+**Finally, I began to investigate connections between _school performance_ and _proximity to resources_. Overall, there was not a lot of correlation. However, there were some **notable connections:** 
 - ACT scores vs. library scores (+ correlation)
 - ACT scores vs. total resource scores (+ correlation) 
 
+
+## Conclusions & Next Steps
 I was not surprised by the lack of correlation school performance and proxmity to resources. However, I was very surprised by how many schools are not near resources. 77/117 schools were more than 1 mile away from a library. I would love to know what we can do to support those students and families, since libraries serve as hubs for so many different resources and community events. It was also interesting to note that there were 24 schools within 1 mile of a library that earned a 'D' or an 'F'. I would also love to know what we can do to support those students and families and help them leverage nearby resources.  
 
-## Next Steps
 If I were to build onto this project my next steps would be to: 
 
 1) **Expand resource scores/map**: I would add neighborhood health centers, afterschool programs, food programs, and other resources
