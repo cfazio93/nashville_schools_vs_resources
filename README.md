@@ -90,10 +90,8 @@ I examined _public schools_ only (and left out charters - since they are not dep
 - park/community center (Nashville.gov data groups these together) 
 
 Each score ranges from 0-3. 
-- **score: 3** = within 1 mile of the resource
-- **score: 2** = within 3 miles of the resource
-- **score: 1** = within 5 miles of the resource
-- **score: 0** = more than 5 miles from the resource
+
+<img src="visuals/resource score chart.jpg" alt="Resource Score Chart" width="600">
 
 _Example: A school earning **library score: 3** is within 1 mile of a library._
 
