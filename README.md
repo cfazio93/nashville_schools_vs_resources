@@ -12,6 +12,7 @@
 * [Recommendations](#recommendations)
 * [Dashboard](#dashboard)
 * [Folium Map](#folium-map)
+* [Repo Guide](#repo-guide)
 
 ## Project Overview 
 This project investigates the public resources (libraries, parks, bus stops, etc.) in the **Metro Nashville area**, and if there is a connection between available _resources_ in a neighborhood and that neighborhood’s _public school performance_. 
@@ -142,4 +143,10 @@ Check out my **folium map**! It includes schools, libraries, parks/community cen
 ![**Nashville Area Schools & Resources**](visuals/folium_map_screenshot.jpg)
 
 [Download it here to use the interactive version.](https://github.com/cfazio93/nashville_schools_vs_resources/blob/main/visuals/nashville_map.html) 
+
+## Repo Guide
+- The **notebook** I used for most of my analysis is in: _notebooks_ > _school_scores.ipynb_
+- I used an additional **notebook** to create some visuals: _notebooks_ > _visuals_notebook.ipynb_
+- If you want to see how I concatenated all of the geographical data, go to: _notebooks_ > _concat.ipynb_
+- If you want to see my final spreadsheet: _notebooks_ > _final_spreasheet.xlsx_ 
 
