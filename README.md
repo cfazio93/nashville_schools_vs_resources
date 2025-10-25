@@ -90,20 +90,20 @@ I examined _public schools_ only (and left out charters - since they are not dep
 - park/community center (Nashville.gov data groups these together) 
 
 Each score ranges from 0-3. 
-- *score: 3* = within 1 mile of the resource
-- *score: 2* = within 3 miles of the resource
-- *score: 1* = within 5 miles of the resource
-- *score: 0* = more than 5 miles from the resource
+- **score: 3** = within 1 mile of the resource
+- **score: 2** = within 3 miles of the resource
+- **score: 1** = within 5 miles of the resource
+- **score: 0** = more than 5 miles from the resource
 
-_Example: A school earning *library score: 3* is within 1 mile of a library._
+_Example: A school earning **library score: 3** is within 1 mile of a library._
 
 Then, I added the 3 scores together: 
 
-*Library Score + Bus Score + Park Score = Total Resource Score (0-9)*
+**Library Score + Bus Score + Park Score = Total Resource Score (0-9)**
 
 _A higher score = *closer to community resources*_
 
-**Finally, I began to investigate connections between _school performance_ and _proximity to resources_. Overall, there was not a lot of correlation. However, there were some **notable connections:** 
+**Finally, I began to investigate connections between _school performance_ and _proximity to resources_. Overall, there was not a lot of correlation. However, there were some notable connections:** 
 - ACT scores vs. library scores (+ correlation)
 - ACT scores vs. total resource scores (+ correlation) 
 
@@ -138,6 +138,9 @@ I used PowerBI to make interactive dashboards and visuals. Pages include:
 - **Clusters**: filtering on MNPS data by Geographic Cluster
 
 ## Folium Map
-Check out my [interactive map!](https://github.com/cfazio93/nashville_schools_vs_resources/blob/main/visuals/nashville_map.html) 
+Check out my **folium map**! It includes schools, libraries, parks/community centers, and bus stops. 
 
-Use it to locate schools, libraries, parks/community centers, and bus stops. 
+![**Nashville Area Schools & Resources**](images/folium_map_screenshot.jpg)
+
+[Download it here to use the interactive version.](https://github.com/cfazio93/nashville_schools_vs_resources/blob/main/visuals/nashville_map.html) 
+
