@@ -91,7 +91,7 @@ I examined _public schools_ only (and left out charters - since they are not dep
 
 Each score ranges from 0-3. 
 
-<img src="visuals/resource score chart.jpg" alt="Resource Score Chart" width="600">
+<img src="visuals/resource score chart.jpg" alt="Resource Score Chart" width="400">
 
 _Example: A school earning **library score: 3** is within 1 mile of a library._
 
