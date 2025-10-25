@@ -108,35 +108,77 @@ _A higher score = *closer to community resources*_
 
 <img src="visuals/heatmap.PNG" alt="School Performance vs. Proximity to Resources" width="600">
 
-**It was interesting to examine school clusters, since clusters are based on geographic area.** In each visual, you can see: 
+**It was interesting to examine school clusters, since clusters are based on geographic area.** 
+
+In each visual, you can see: 
 - how each cluster is doing compared to the district in terms of ACT scores and Total Resource Scores 
 - how each school in that cluster performed academically (WIDA and TVAAS) 
 
-_Note_: I am providing visuals here due to an error with the interactive page on PowerBI.  
+_Note: I am providing visuals here due to an error with the interactive page on PowerBI._
 
-<img src="visuals/cluster_overview.jpg" alt="Performance by Cluster" width="600">
+**Performance by Cluster: Landing Page**
+
+<img src="visuals/cluster_overview.jpg" alt="Performance by Cluster" width="800">
+
+**Notable Findings:**: 
+- Clusters whose ACT scores and Total Resource Scores were < district averages: Antioch, Cane Ridge, Overton, Whites Creek 
+- Clusters whose ACT scores and Total Resource Scores were > the district averages: Hillsboro
+- Clusters with ACT scores < district average but Total Resource Scores > district average: Glencliff, Hunters Lane, Maplewood, McGavock
+- Clusters with ACT scores > district average but Total Resource Scores < district average: Lawson 
+
 
 See visuals below to zoom in on each cluster. 
 
-<img src="visuals/antioch_cluster.jpg" alt="Antioch Cluster" width="600">
 
-<img src="visuals/cane_ridge_cluster.jpg" alt="Cane Ridge Cluster" width="600">
+**Antioch Cluster**
 
-<img src="visuals/glencliff_cluster.jpg" alt="Glencliff Cluster" width="600">
+<img src="visuals/antioch_cluster.jpg" alt="Antioch Cluster" width="800">
 
-<img src="visuals/hillsboro_cluster.jpg" alt="Hillsboro Cluster" width="600">
 
-<img src="visuals/hunterslane_cluster.jpg" alt="Hunters Lane Cluster" width="600">
+**Cane Ridge Cluster**
 
-<img src="visuals/lawson_cluster.jpg" alt="Lawson Cluster" width="600">
+<img src="visuals/cane_ridge_cluster.jpg" alt="Cane Ridge Cluster" width="800">
 
-<img src="visuals/maplewood_cluster.jpg" alt="Maplewood Cluster" width="600">
 
-<img src="visuals/mcgavock_cluster.jpg" alt="McGavock Cluster" width="600">
+**Glencliff Cluster**
 
-<img src="visuals/overton_cluster.jpg" alt="Overton Cluster" width="600">
+<img src="visuals/glencliff_cluster.jpg" alt="Glencliff Cluster" width="800">
 
-<img src="visuals/whitescreek_cluster.jpg" alt="Whites Creek Cluster" width="600">
+
+**Hillsboro Cluster**
+
+<img src="visuals/hillsboro_cluster.jpg" alt="Hillsboro Cluster" width="800">
+
+
+**Hunters Lane Cluster**
+
+<img src="visuals/hunterslane_cluster.jpg" alt="Hunters Lane Cluster" width="800">
+
+
+**Lawson Cluster**
+
+<img src="visuals/lawson_cluster.jpg" alt="Lawson Cluster" width="800">
+
+
+**Maplewood Cluster**
+
+<img src="visuals/maplewood_cluster.jpg" alt="Maplewood Cluster" width="800">
+
+
+**McGavock Cluster**
+
+<img src="visuals/mcgavock_cluster.jpg" alt="McGavock Cluster" width="800">
+
+
+**Overton Cluster**
+
+<img src="visuals/overton_cluster.jpg" alt="Overton Cluster" width="800">
+
+
+**Whites Creek Cluster**
+
+<img src="visuals/whitescreek_cluster.jpg" alt="Whites Creek Cluster" width="800">
+
 
 ## Conclusions & Next Steps
 I was not surprised by the lack of correlation school performance and proxmity to resources. However, I was very surprised by how many schools are not near resources. 77/117 schools were more than 1 mile away from a library. I would love to know what we can do to support those students and families, since libraries serve as hubs for so many different resources and community events. It was also interesting to note that there were 24 schools within 1 mile of a library that earned a 'D' or an 'F'. I would also love to know what we can do to support those students and families and help them leverage nearby resources.  
