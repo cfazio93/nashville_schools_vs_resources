@@ -20,7 +20,7 @@ This project investigates the public resources (libraries, parks, bus stops, etc
 As a long-term resident of Nashville and teacher, I wanted to understand how resources may or may not impact student performance. As an educator, I am always interested in the nearby resources available so I can connect families to them. This project focuses on school performance data and Nashville location data.  
 
 ## Motivation 
-My motivations and inspirations for this project come from my experiences growing up in NYC, and my recent experiences as a teacher the Nashville area.  
+My motivations and inspirations for this project come from my experiences growing up in NYC, and my recent experiences as a teacher in the Nashville area.  
 
 Growing up in New York City, public resources felt endless. There are over 200 public libraries, and several public transit options (NYC public school students are also given free access to transit). Since there are so many resources within walking distance, and it is so much easier to travel to resources that are further away, everything is more accessible. Students and families are not as confined to their neighborhoods, and not having to rely on a car makes a huge difference. 
 
@@ -122,7 +122,7 @@ _Note: I am providing visuals here due to an error with the interactive page on 
 
 **Notable Findings:**: 
 - Clusters whose ACT scores and Total Resource Scores were < district averages: Antioch, Cane Ridge, Overton, Whites Creek 
-- Clusters whose ACT scores and Total Resource Scores were > the district averages: Hillsboro
+- Clusters whose ACT scores and Total Resource Scores were > district averages: Hillsboro
 - Clusters with ACT scores < district average but Total Resource Scores > district average: Glencliff, Hunters Lane, Maplewood, McGavock
 - Clusters with ACT scores > district average but Total Resource Scores < district average: Lawson 
 
