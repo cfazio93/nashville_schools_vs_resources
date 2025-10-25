@@ -107,8 +107,7 @@ _A higher score = *closer to community resources*_
 - ACT scores vs. library scores (+ correlation)
 - ACT scores vs. total resource scores (+ correlation) 
 
-![School Performance vs. Proximity to Resources](visuals/heatmap.png)
-
+<img src="visuals/heatmap.png" alt="School Performance vs. Proximity to Resources" width="600">
 
 ## Conclusions & Next Steps
 I was not surprised by the lack of correlation school performance and proxmity to resources. However, I was very surprised by how many schools are not near resources. 77/117 schools were more than 1 mile away from a library. I would love to know what we can do to support those students and families, since libraries serve as hubs for so many different resources and community events. It was also interesting to note that there were 24 schools within 1 mile of a library that earned a 'D' or an 'F'. I would also love to know what we can do to support those students and families and help them leverage nearby resources.  
