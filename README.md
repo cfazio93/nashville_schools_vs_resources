@@ -107,7 +107,7 @@ _A higher score = *closer to community resources*_
 - ACT scores vs. library scores (+ correlation)
 - ACT scores vs. total resource scores (+ correlation) 
 
-![**School Performance vs. Proximity to Resources**](visuals/heatmap.png)
+![School Performance vs. Proximity to Resources](visuals/heatmap.png)
 
 
 ## Conclusions & Next Steps
