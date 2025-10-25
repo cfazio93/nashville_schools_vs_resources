@@ -127,7 +127,7 @@ My recommendation for MNPS and for the city of Nashville would be for them to re
 - How can we improve school performance in areas that are 'rich' in resources? 
 
 ## Dashboard 
-I used PowerBI to make interactive dashboards and visuals. Check it out [here!]<iframe title="cassidy_capstone" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMDFiOTI2YjQtZTJhMS00ODkzLTg4MGUtMjI2NjMwODk4YjNlIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9&embedImagePlaceholder=true&pageName=cdb450f8502cb5362a49" frameborder="0" allowFullScreen="true"></iframe>
+I used PowerBI to make interactive dashboards and visuals. Check it out [here! (OPEN IN NEW TAB)](https://app.powerbi.com/view?r=eyJrIjoiMDFiOTI2YjQtZTJhMS00ODkzLTg4MGUtMjI2NjMwODk4YjNlIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9&embedImagePlaceholder=true&pageName=cdb450f8502cb5362a49)
 
 Pages include: 
 
