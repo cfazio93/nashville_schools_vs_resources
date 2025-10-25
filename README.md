@@ -140,7 +140,7 @@ I used PowerBI to make interactive dashboards and visuals. Pages include:
 ## Folium Map
 Check out my **folium map**! It includes schools, libraries, parks/community centers, and bus stops. 
 
-![**Nashville Area Schools & Resources**](images/folium_map_screenshot.jpg)
+![**Nashville Area Schools & Resources**](visuals/folium_map_screenshot.jpg)
 
 [Download it here to use the interactive version.](https://github.com/cfazio93/nashville_schools_vs_resources/blob/main/visuals/nashville_map.html) 
 
