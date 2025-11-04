@@ -195,7 +195,7 @@ My recommendation for MNPS and for the city of Nashville would be for them to re
 - Are schools already utilizing community resources?
 - Are schools already partnering with community organizations?
 - If there are schools that do have strong existing partnerships, how can we replicate their systems across the district?
-- How can we supporty schools in resource 'deserts'?
+- How can we support schools in resource 'deserts'?
 - How can we improve school performance in areas that are 'rich' in resources? 
 
 ## Dashboard 
